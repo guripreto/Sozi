@@ -61,15 +61,15 @@ msgstr "Quadro"
 
 #: build/js/view/Properties.js:43
 msgid "Show in frame list"
-msgstr "Exibir frames como lista"
+msgstr "Exibir quadros como lista"
 
 #: build/js/view/Properties.js:43
 msgid "Show frame number"
-msgstr "Exibir número do frame"
+msgstr "Exibir número do quadro"
 
 #: build/js/view/Properties.js:43
 msgid "Link to previous frame"
-msgstr "Link para o frame anterior"
+msgstr "Link para o quadro anterior"
 
 #: build/js/view/Properties.js:43 build/js/view/Toolbar.js:90
 msgid "Clip"
@@ -77,7 +77,7 @@ msgstr "Cortar"
 
 #: build/js/view/Properties.js:43
 msgid "Title"
-msgstr "nome do frame"
+msgstr "nome do quadro"
 
 #: build/js/view/Properties.js:43
 msgid "Id"
@@ -89,7 +89,7 @@ msgstr "Tempo de espera (segundos)"
 
 #: build/js/view/Properties.js:43
 msgid "Timeout enable"
-msgstr "ativar o tempo de espera"
+msgstr "Ativar o tempo de espera"
 
 #: build/js/view/Properties.js:43
 msgid "Reference element Id"
@@ -97,7 +97,7 @@ msgstr "ID do elemento referencial"
 
 #: build/js/view/Properties.js:45
 msgid "Autoselect element"
-msgstr "selecionar elemento automaticamente"
+msgstr "Selecionar elemento automaticamente"
 
 #: build/js/view/Properties.js:45
 msgid "Hide element"
@@ -125,7 +125,7 @@ msgstr "jeito temporal de transição"
 
 #: build/js/view/Properties.js:59
 msgid "Relative zoom (%)"
-msgstr "ampliação relativa (%)"
+msgstr "Ampliação relativa (%)"
 
 #: build/js/view/Properties.js:59
 msgid "Path Id"
@@ -137,7 +137,7 @@ msgstr "Esconde caminho"
 
 #: build/js/view/Timeline.js:264
 msgid "Delete the selected frames"
-msgstr "Excluir frames selecionados"
+msgstr "Excluir quadros selecionados"
 
 #: build/js/view/Timeline.js:270
 msgid "Create a new frame"
